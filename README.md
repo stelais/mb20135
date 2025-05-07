@@ -1,3 +1,6 @@
+# Modeling MOA-2020-BLG-135Lb with RTModel and pyLIMA
+This repository is part of the online material of `CHAPTER 7: Microlensing` of the Book `Exoplanet Detection Methods: Uncovering the Evolution of Planetary Systems.`
+
 ## 1. Installing the Package
 
 1. Create a new environment:
@@ -10,7 +13,7 @@
    ```
 3. Clone this GitHub repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/stelais/mb20135.git
    ```
 4. Install the required packages: `RTModel`, `astropy`, `pandas`, and `pyLIMA`:
    ```bash
